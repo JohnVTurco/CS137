@@ -256,7 +256,7 @@ int main(void)
 	dlistPrint(lst1);
 	dlistDestroy(lst1);
 
-     // should add more tests
+   
      printf("Reached");
 	return 0;
 }
